@@ -10,6 +10,6 @@ void main(){
 
     average /= (float) 8;
 
-    printf("%.2f\n", average);
+    printf("The average age is: %.2f\n", average);
 
 }

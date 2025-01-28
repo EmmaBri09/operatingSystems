@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(){
-    printf("Please enter a temperature: \n");
+    printf("Please enter a temperature: ");
     int temp;
     scanf("%d", &temp);
 

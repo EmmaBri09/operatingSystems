@@ -1,0 +1,4 @@
+Scores in reverse order.
+89
+78
+67
